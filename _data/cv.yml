@@ -2,96 +2,91 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Anders Pearson
+    - name: Email
+      value: AndersPearson206@gmail.com
+    - name: LinkedIn
+      value: <a href="https://www.linkedin.com/in/anders-pearson">www.linkedin.com/in/anders-pearson</a>
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Concurrent B.S./M.S. Program
+      institution: University of Washington, Seattle, WA
+      year: 2022 – Current
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Master of Science (M.S.), Electrical Engineering (Expected June 2027)
+        - Bachelor of Science (B.S.), Electrical and Computer Engineering (Expected June 2026)
+        - GPA: 3.86/4.0, ECE GPA: 3.95
+        - title: Relevant Coursework
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Machine Learning Algorithms, TinyML, Network Security and Cryptography, Robotics, Digital Signal Processing, Digital Circuits and System, Network Architecture, ML for Signal Processing, Data Structures and Algorithms, C and C++ Programming, Natural Language Processing (NLP), Random Signals for Communications, Can-Sat
+    - title: Summer Exchange Program, RASF Scholar
+      institution: TU Berlin, Berlin, Germany
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
+        - GPA: 4.0/4.0
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant / Summer 2025 Applied Research Intern
+      institution: Sensor Systems Laboratory, Paul G. Allen School of Computer Science & Engineering, Seattle, WA
+      year: 2024 – Current
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Researching RF signal processing, artificial intelligence, and 6G wireless communication systems with Prof. Joshua Smith
+        - Developed a novel, physics-informed deep learning framework for the NASA LunaNet program that outperformed all existing baselines, achieving a .9068 SSIM in predicting wireless network coverage on the moon.
+        - Engineered a high-fidelity data pipeline in Python to generate a dataset of 65,000 radio maps, simulating lunar terrains and wave propagation using the NVIDIA Sionna ray-tracing engine, and spearheaded analyzing data and data cleaning
+        - Developed and parallelized a custom terrain generator based on lunar topographic statistics, improving data generation speed by 10x
+        - Designed and implemented a triplet-U-Net architecture with a Denoising Diffusion Probabilistic Model (DDPM) to refine signal predictions by modeling wave propagation based on the Helmholtz equation in 3 dimensions.
+        - Conducted comprehensive experiments and ablation studies yielding a 10% improvement in NMSE
+        - Collaborated to co-author a research paper, which was submitted to the IEEE ICASSP 2026 conference.
+        - title: Research Links
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - 'Paper: <a href="https://www.arxiv.org/pdf/2509.14559" target="_blank">https://www.arxiv.org/pdf/2509.14559</a>'
+            - 'Project Website: <a href="https://radiolunadiff.github.io" target="_blank">https://radiolunadiff.github.io</a>'
+            - 'GitHub: <a href="https://github.com/anderspearson206/LunarTerrainGenerator" target="_blank">LunarTerrainGenerator</a>'
+    - title: Software Engineering Internship
+      institution: WiBotic Inc., Seattle, WA
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Developed a C/C++ program for ESP32s to transmit CAN data via Ethernet/WiFi, enabling real-time remote diagnostics for robotic charging systems, collaborating and communicating with a small start-up team to problem-solve
+        - Enhanced the Pycyphal library by integrating support for the Socketcand CAN interface, improving compatibility and functionality for a team of 20 engineers
+        - title: Project Links
+          contents:
+            - 'GitHub (socketcand_translate): <a href="https://github.com/wibotic/socketcand_translate" target="_blank">wibotic/socketcand_translate</a>'
+            - 'GitHub (Pycyphal PR): <a href="https://github.com/OpenCyphal/pycyphal/pull/306" target="_blank">OpenCyphal/pycyphal/pull/306</a>'
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Programming Languages
+      items:
+        - Python, C++, C, Java, Bash
+    - title: AI/ML
+      items:
+        - PyTorch, TensorFlow, TensorFlow Lite, Scikit-learn, NumPy, Pandas, Computer Vision, CNN, Generative AI
+    - title: Developer Tools
+      items:
+        - Git, Linux, Docker, PowerShell, CUDA, Apptainer, Vim
+    - title: Hardware & EE
+      items:
+        - Microcontrollers (ESP32, Arduino), Embedded Systems, CAN bus, Socketcand, RF Signal Processing, Digital Circuits, NVIDIA Sionna (Ray-Tracing), Fuzzing, Verilog / SystemVerilog, FPGA, Soldering, Simulink, Model
+    - title: Soft Skills
+      items:
+        - Attention to Detail, Brainstorming, Motivation, Enthusiasm, Creativity
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Leadership
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Vice President/Head of Risk Management
+      institution: Tau Kappa Epsilon Chi Chapter, Seattle, WA
+      year: 2023 – 2025
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Valedictorian (Garfield High School)
+        - National Merit Scholar (National Merit Scholarship Corporation)

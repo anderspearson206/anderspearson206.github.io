@@ -1,14 +1,9 @@
-github_users:
-  - torvalds
-  - alshedivat
+# github_users:
+#   - anderspearson206
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - anderspearson206/LunarTerrainGenerator
+  - anderspearson206/RadioLunaDiff
+  - anderspearson206/lunar-mesh-env
