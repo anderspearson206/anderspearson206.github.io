@@ -267,7 +267,7 @@ scholar:
   last_name: [Pearson]
   first_name: [Anders, M.]
 
-  style: IEEE
+  style: ieee
   locale: en
 
   source: /_bibliography/
