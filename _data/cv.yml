@@ -13,7 +13,7 @@
   contents:
     - title: Concurrent B.S./M.S. Program
       institution: University of Washington, Seattle, WA
-      year: 2022 – Current
+      year: 2022 - Current
       description:
         - Master of Science (M.S.), Electrical Engineering (Expected June 2027)
         - Bachelor of Science (B.S.), Electrical and Computer Engineering (Expected June 2026)
@@ -32,7 +32,7 @@
   contents:
     - title: Research Assistant / Summer 2025 Applied Research Intern
       institution: Sensor Systems Laboratory, Paul G. Allen School of Computer Science & Engineering, Seattle, WA
-      year: 2024 – Current
+      year: 2024 - Current
       description:
         - Researching RF signal processing, artificial intelligence, and 6G wireless communication systems with Prof. Joshua Smith
         - Developed a novel, physics-informed deep learning framework for the NASA LunaNet program that outperformed all existing baselines, achieving a .9068 SSIM in predicting wireless network coverage on the moon.
@@ -81,7 +81,7 @@
   contents:
     - title: Vice President/Head of Risk Management
       institution: Tau Kappa Epsilon Chi Chapter, Seattle, WA
-      year: 2023 – 2025
+      year: 2023 - 2025
 
 - title: Honors and Awards
   type: time_table
