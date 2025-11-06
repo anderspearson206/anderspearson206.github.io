@@ -7,7 +7,7 @@ first_name: Anders
 middle_name: M.
 last_name: Pearson
 contact_note: >
-  My personal email (anderspearson206@gmail.com) is the best way to reach me
+  My personal email (AndersPearson206@gmail.com) is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Anders Pearson, an Electrical and Computer Engineering student at the University of Washington.
 footer_text: >
@@ -48,9 +48,9 @@ repo_trophies:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
-posts_in_search: true
+posts_in_search: false
 bib_search: true
 
 # Dimensions
@@ -304,7 +304,6 @@ filtered_bibtex_keywords:
     additional_info,
     altmetric,
     annotation,
-    arxiv,
     award,
     award_name,
     bibtex_show,
@@ -313,7 +312,6 @@ filtered_bibtex_keywords:
     google_scholar_id,
     html,
     inspirehep_id,
-    pdf,
     poster,
     preview,
     selected,
@@ -620,25 +618,24 @@ third_party_libraries:
       css: "https://cdn.jsdelivr.net/npm/venobox@{{version}}/dist/venobox.min.css"
       js: "https://cdn.jsdelivr.net/npm/venobox@{{version}}/dist/venobox.min.js"
     version: "2.1.8"
-
 # -----------------------------------------------------------------------------
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
+# jekyll_get_json:
+#   - data: resume
+#     json: assets/json/resume.json # it can also be an url
 
-jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references
+# jsonresume:
+#   - basics
+#   - work
+#   - education
+#   - publications
+#   - projects
+#   - volunteer
+#   - awards
+#   - certificates
+#   - skills
+#   - languages
+#   - interests
+#   - references

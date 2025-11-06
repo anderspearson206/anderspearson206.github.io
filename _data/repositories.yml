@@ -4,6 +4,6 @@
 repo_description_lines_max: 2
 
 github_repos:
-  - anderspearson206/LunarTerrainGenerator
-  - anderspearson206/RadioLunaDiff
   - anderspearson206/lunar-mesh-env
+  - anderspearson206/RadioLunaDiff
+  - anderspearson206/LunarTerrainGenerator
