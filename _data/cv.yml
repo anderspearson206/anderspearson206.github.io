@@ -17,7 +17,7 @@
       description:
         - Master of Science (M.S.), Electrical Engineering (Expected June 2027)
         - Bachelor of Science (B.S.), Electrical and Computer Engineering (Expected June 2026)
-        - GPA: 3.86/4.0, ECE GPA: 3.95
+        - GPA: "3.86/4.0, ECE GPA: 3.95"
         - title: Relevant Coursework
           contents:
             - Machine Learning Algorithms, TinyML, Network Security and Cryptography, Robotics, Digital Signal Processing, Digital Circuits and System, Network Architecture, ML for Signal Processing, Data Structures and Algorithms, C and C++ Programming, Natural Language Processing (NLP), Random Signals for Communications, Can-Sat
