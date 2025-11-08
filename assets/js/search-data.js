@@ -58,6 +58,11 @@ ninja.data = [{
           description: "A generation algorithm based on topographic statistics of the moon",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-radiolunadiff",
+          title: 'RadioLunaDiff',
+          description: "Estimation of wireless network signal strength in lunar terrain",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
             },},{
         id: 'social-email',
         title: 'email',
