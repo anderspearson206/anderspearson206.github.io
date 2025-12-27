@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Electrical and Computer Engineering Student @ UW | Research Assistant, Senor Systems Laboratory
+subtitle: Electrical and Computer Engineering Student @ UW | Research Assistant, Sensor Systems Laboratory
 
 profile:
   align: right
