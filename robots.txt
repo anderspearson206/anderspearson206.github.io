@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://anderspearson206.github.io/sitemap.xml
+Sitemap: https://anderspearson.com/sitemap.xml
