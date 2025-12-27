@@ -13,9 +13,13 @@ This project is a procedural lunar terrain heightmap generator for Python. The a
 To ensure realism, the generated terrain was validated against real lunar topographic statistics taken from the LROC RDR Data Portal. Note that the highest resolution data provided by the data portal is 2 meters per pixel, which motivated the creation of this generator to have access to data at 1 meter per pixel. The generator can produce distinct landscapes representative of the two key lunar types: smooth, basaltic Mare terrain and rugged, heavily-cratered Highland terrain.
 
 <div class="text-center">
-<a href="https://github.com/anderspearson206/LunarTerrainGenerator" target="_blank" rel="noopener noreferrer" class="btn btn-outline-primary rounded-pill">
-<i class="fa-brands fa-github"></i> View on GitHub
-</a>
+    <a href="https://github.com/anderspearson206/LunarTerrainGenerator" target="_blank" rel="noopener noreferrer" class="btn btn-outline-primary rounded-pill">
+        <i class="fa-brands fa-github"></i> View on GitHub
+    </a>
+    
+    <a href="{{ '/assets/pdf/Lunar_Terrain_Generation.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer" class="btn btn-outline-primary rounded-pill">
+        <i class="fa-solid fa-file-pdf"></i> Methodology
+    </a>
 </div>
 
 <hr>
