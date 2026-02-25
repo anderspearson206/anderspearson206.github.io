@@ -9,7 +9,7 @@ giscus_comments: false
 published: true
 ---
 
-This work was done in the [UW Sensor Systems Lab](https://sensor.cs.washington.edu/) in collaboration with several other talented researchers, namely [Paolo Torrado](https://paolotorrado.com/). As an undergraduate, I built a data generation pipeline, using my own custom terrain generation algorithm and [Sionna-RT](https://github.com/NVlabs/sionna-rt). I also developed and implemented the NN prediction architecture. In September of 2025 we submitted a paper to [ICASSP](https://2026.ieeeicassp.org/).
+This work was done in the [UW Sensor Systems Lab](https://sensor.cs.washington.edu/) in collaboration with several other talented researchers, namely [Paolo Torrado](https://paolotorrado.com/). As an undergraduate, I built a data generation pipeline, using my own custom terrain generation algorithm and [Sionna-RT](https://github.com/NVlabs/sionna-rt). I also developed and implemented the NN prediction architecture. This paper was accepted to [ICASSP](https://2026.ieeeicassp.org/), and I will be attending in May to present our work.
 
 This project introduces a novel physics-informed deep learning architecture for predicting radio maps (wireless signal strength) over complex lunar terrain. This work supports future communication-aware mission planning for NASA's proposed LunaNet framework.
 
