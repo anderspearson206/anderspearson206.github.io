@@ -14,7 +14,7 @@ This work was done in the [UW Sensor Systems Lab](https://sensor.cs.washington.e
 This project introduces a novel physics-informed deep learning architecture for predicting radio maps (wireless signal strength) over complex lunar terrain. This work supports future communication-aware mission planning for NASA's proposed LunaNet framework.
 
 - [**Project Website**](https://radiolunadiff.github.io/)
-- [**Paper (arXiv)**](https://arxiv.org/pdf/2509.14559)
+- [**Paper**](https://ieeexplore.ieee.org/document/11463335)
 - [**GitHub Repository**](https://github.com/anderspearson206/RadioLunaDiff)
 
 ---

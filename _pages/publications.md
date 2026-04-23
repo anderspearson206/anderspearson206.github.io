@@ -16,11 +16,11 @@ nav_order: 2
 {% bibliography --query @preprint %}
 
 <h2 class="mt-5">Published Works</h2>
-<p>Coming soon.</p>
+<!-- <p>Coming soon.</p> -->
 <!--
 To add published papers, change their type in papers.bib to @article or @inproceedings
 and then use this line:
-{% bibliography --query @article or @inproceedings %}
 -->
+{% bibliography --query @article or @inproceedings %}
 
 </div>
