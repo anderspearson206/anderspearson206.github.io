@@ -6,7 +6,7 @@ subtitle: Electrical and Computer Engineering Student @ UW | Research Assistant,
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Anders_Pearson_Headshot_2026.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>2302 32nd Ave S</p>
