@@ -37,3 +37,5 @@ Hello, welcome to my website (still a work in progress). I am a concurrent B.S./
 As a research assistant in the Sensor Systems Laboratory, I am advised by Professor Joshua Smith. My research focuses on the intersection of machine learning, signal processing, and wireless communications.
 
 My most recent work involves developing novel deep learning frameworks to predict wireless network coverage in challenging environments, with a special focus on future lunar missions for NASA's LunaNet program. I am passionate about applying signal processing and ML to problems here on earth or in space!
+
+I am supported by a [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
